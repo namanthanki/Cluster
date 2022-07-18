@@ -1,0 +1,15 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20%;
+    background: #051622;
+    color: #CEFDFF;
+    height: 7vh;
+}
+
+.navbar_home_redirect {
+    all: unset;
+    cursor: pointer;
+}

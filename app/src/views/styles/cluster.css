@@ -1,0 +1,49 @@
+.cluster-container {
+    width: min(100% - 2rem, 60%);
+    margin-inline: auto;
+}
+
+.cluster-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cluster-title {
+    color: #deb992;
+    font-size: 2.2vw;
+}
+
+.cluster-supply {
+    color: #fff;
+}
+
+.lists-container {
+    margin-bottom: 2em;
+}
+
+.cluster-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.btn {
+    width: 5vw;
+    font-size: 1vw;
+    padding: 0.6em;
+    border-radius: 5px;
+    background-color: #0D2231;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.cluster-footer {
+    text-align: center;
+}
+
+.footer-text {
+    color: #fff;
+}
